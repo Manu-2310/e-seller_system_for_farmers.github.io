@@ -1,0 +1,69 @@
+[Mon May 31 14:49:18.873951 2021] [ssl:warn] [pid 9600:tid 244] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 31 14:49:19.377980 2021] [ssl:warn] [pid 9600:tid 244] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 31 14:49:20.924068 2021] [mpm_winnt:notice] [pid 9600:tid 244] AH00455: Apache/2.4.38 (Win32) OpenSSL/1.1.1a PHP/7.3.2 configured -- resuming normal operations
+[Mon May 31 14:49:20.924068 2021] [mpm_winnt:notice] [pid 9600:tid 244] AH00456: Apache Lounge VC15 Server built: Jan 18 2019 12:31:19
+[Mon May 31 14:49:20.924068 2021] [core:notice] [pid 9600:tid 244] AH00094: Command line: 'c:\\users\\boss\\desktop\\wheat\\xampp\\apache\\bin\\httpd.exe -d C:/Users/Boss/Desktop/wheat/xampp/apache'
+[Mon May 31 14:49:20.930069 2021] [mpm_winnt:notice] [pid 9600:tid 244] AH00418: Parent: Created child process 10052
+[Mon May 31 14:49:22.438155 2021] [ssl:warn] [pid 10052:tid 256] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 31 14:49:22.669168 2021] [ssl:warn] [pid 10052:tid 256] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 31 14:49:22.883180 2021] [mpm_winnt:notice] [pid 10052:tid 256] AH00354: Child: Starting 150 worker threads.
+[Mon May 31 14:50:45.302895 2021] [ssl:warn] [pid 8224:tid 244] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 31 14:50:45.753920 2021] [core:warn] [pid 8224:tid 244] AH00098: pid file C:/Users/Boss/Desktop/wheat/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon May 31 14:50:45.760921 2021] [ssl:warn] [pid 8224:tid 244] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 31 14:50:45.945931 2021] [mpm_winnt:notice] [pid 8224:tid 244] AH00455: Apache/2.4.38 (Win32) OpenSSL/1.1.1a PHP/7.3.2 configured -- resuming normal operations
+[Mon May 31 14:50:45.945931 2021] [mpm_winnt:notice] [pid 8224:tid 244] AH00456: Apache Lounge VC15 Server built: Jan 18 2019 12:31:19
+[Mon May 31 14:50:45.945931 2021] [core:notice] [pid 8224:tid 244] AH00094: Command line: 'c:\\users\\boss\\desktop\\wheat\\xampp\\apache\\bin\\httpd.exe -d C:/Users/Boss/Desktop/wheat/xampp/apache'
+[Mon May 31 14:50:45.948932 2021] [mpm_winnt:notice] [pid 8224:tid 244] AH00418: Parent: Created child process 9428
+[Mon May 31 14:50:47.360012 2021] [ssl:warn] [pid 9428:tid 256] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 31 14:50:47.714033 2021] [ssl:warn] [pid 9428:tid 256] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 31 14:50:47.785037 2021] [mpm_winnt:notice] [pid 9428:tid 256] AH00354: Child: Starting 150 worker threads.
+[Mon May 31 16:34:57.271901 2021] [php7:error] [pid 9428:tid 1520] [client ::1:55906] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 16:35:08.347042 2021] [php7:error] [pid 9428:tid 1500] [client ::1:55907] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 16:35:17.261552 2021] [php7:error] [pid 9428:tid 1520] [client ::1:55909] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 16:35:23.705920 2021] [php7:error] [pid 9428:tid 1500] [client ::1:55912] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 16:35:26.171061 2021] [php7:error] [pid 9428:tid 1500] [client ::1:55912] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 16:35:50.018425 2021] [php7:error] [pid 9428:tid 1520] [client ::1:55914] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 16:36:11.440651 2021] [php7:error] [pid 9428:tid 1500] [client ::1:55916] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 16:36:43.648493 2021] [php7:error] [pid 9428:tid 1520] [client ::1:55919] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/include.php' not found or unable to stat
+[Mon May 31 17:01:52.370782 2021] [php7:error] [pid 9428:tid 1520] [client ::1:56000] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/include.php' not found or unable to stat
+[Mon May 31 17:01:52.611795 2021] [php7:error] [pid 9428:tid 1520] [client ::1:56000] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/include.php' not found or unable to stat
+[Mon May 31 17:02:00.104224 2021] [php7:error] [pid 9428:tid 1500] [client ::1:56001] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 17:02:00.312236 2021] [php7:error] [pid 9428:tid 1500] [client ::1:56001] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 17:02:03.793435 2021] [php7:error] [pid 9428:tid 1500] [client ::1:56001] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 17:02:05.005504 2021] [php7:error] [pid 9428:tid 1500] [client ::1:56001] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 17:07:15.061238 2021] [php7:error] [pid 9428:tid 1520] [client ::1:56025] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 17:07:18.557438 2021] [php7:error] [pid 9428:tid 1520] [client ::1:56025] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 17:07:20.169531 2021] [php7:error] [pid 9428:tid 1520] [client ::1:56025] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 17:07:23.258707 2021] [php7:error] [pid 9428:tid 1520] [client ::1:56025] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 17:07:26.460890 2021] [php7:error] [pid 9428:tid 1520] [client ::1:56025] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/include.php' not found or unable to stat
+[Mon May 31 17:07:27.419945 2021] [php7:error] [pid 9428:tid 1520] [client ::1:56025] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/include.php' not found or unable to stat
+[Mon May 31 17:07:39.854656 2021] [php7:error] [pid 9428:tid 1500] [client ::1:56028] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 17:07:41.517752 2021] [php7:error] [pid 9428:tid 1500] [client ::1:56028] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 17:07:44.064897 2021] [php7:error] [pid 9428:tid 1500] [client ::1:56028] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 17:07:44.824941 2021] [php7:error] [pid 9428:tid 1500] [client ::1:56028] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 17:08:14.200581 2021] [php7:error] [pid 9428:tid 1520] [client ::1:56033] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 17:08:15.267642 2021] [php7:error] [pid 9428:tid 1520] [client ::1:56033] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 17:08:31.505571 2021] [php7:error] [pid 9428:tid 1500] [client ::1:56034] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 17:08:35.384792 2021] [php7:error] [pid 9428:tid 1500] [client ::1:56034] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 17:08:36.785873 2021] [php7:error] [pid 9428:tid 1500] [client ::1:56034] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Mon May 31 17:08:45.533373 2021] [php7:error] [pid 9428:tid 1520] [client ::1:56035] script 'C:/Users/Boss/Desktop/wheat/xampp/htdocs/first.php' not found or unable to stat
+[Thu Jun 03 13:50:50.029410 2021] [ssl:warn] [pid 8176:tid 244] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 03 13:50:50.314426 2021] [core:warn] [pid 8176:tid 244] AH00098: pid file C:/Users/Boss/Desktop/wheat/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 03 13:50:50.318426 2021] [ssl:warn] [pid 8176:tid 244] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 03 13:50:53.797625 2021] [mpm_winnt:notice] [pid 8176:tid 244] AH00455: Apache/2.4.38 (Win32) OpenSSL/1.1.1a PHP/7.3.2 configured -- resuming normal operations
+[Thu Jun 03 13:50:53.797625 2021] [mpm_winnt:notice] [pid 8176:tid 244] AH00456: Apache Lounge VC15 Server built: Jan 18 2019 12:31:19
+[Thu Jun 03 13:50:53.797625 2021] [core:notice] [pid 8176:tid 244] AH00094: Command line: 'c:\\users\\boss\\desktop\\wheat\\xampp\\apache\\bin\\httpd.exe -d C:/Users/Boss/Desktop/wheat/xampp/apache'
+[Thu Jun 03 13:50:53.802626 2021] [mpm_winnt:notice] [pid 8176:tid 244] AH00418: Parent: Created child process 5164
+[Thu Jun 03 13:50:54.890688 2021] [ssl:warn] [pid 5164:tid 256] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 03 13:50:55.089699 2021] [ssl:warn] [pid 5164:tid 256] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 03 13:50:55.314712 2021] [mpm_winnt:notice] [pid 5164:tid 256] AH00354: Child: Starting 150 worker threads.
+[Thu Jun 03 14:03:44.456705 2021] [ssl:warn] [pid 5876:tid 244] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 03 14:03:44.570711 2021] [core:warn] [pid 5876:tid 244] AH00098: pid file C:/Users/Boss/Desktop/wheat/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 03 14:03:44.574711 2021] [ssl:warn] [pid 5876:tid 244] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 03 14:03:45.022737 2021] [mpm_winnt:notice] [pid 5876:tid 244] AH00455: Apache/2.4.38 (Win32) OpenSSL/1.1.1a PHP/7.3.2 configured -- resuming normal operations
+[Thu Jun 03 14:03:45.022737 2021] [mpm_winnt:notice] [pid 5876:tid 244] AH00456: Apache Lounge VC15 Server built: Jan 18 2019 12:31:19
+[Thu Jun 03 14:03:45.022737 2021] [core:notice] [pid 5876:tid 244] AH00094: Command line: 'c:\\users\\boss\\desktop\\wheat\\xampp\\apache\\bin\\httpd.exe -d C:/Users/Boss/Desktop/wheat/xampp/apache'
+[Thu Jun 03 14:03:45.025737 2021] [mpm_winnt:notice] [pid 5876:tid 244] AH00418: Parent: Created child process 9040
+[Thu Jun 03 14:03:45.904787 2021] [ssl:warn] [pid 9040:tid 256] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 03 14:03:45.982792 2021] [ssl:warn] [pid 9040:tid 256] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 03 14:03:46.028795 2021] [mpm_winnt:notice] [pid 9040:tid 256] AH00354: Child: Starting 150 worker threads.
